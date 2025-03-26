@@ -53,6 +53,7 @@ a:hover {
 
 #about {
     margin-bottom: 20px;
+    border: 3px blue;
 }
 
 #img-desc {
